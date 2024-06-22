@@ -16,4 +16,5 @@ This input allows the Banker's Algorithm to compute the need matrix and determin
 
 <ins>_**Output**_</ins>
 The output of the provided Bankers  Algorithm (Avoidance) code and the final result:
-![Roundrobin_output](https://github.com/simoon06/Roundrobin/assets/139492391/338c14ad-16fc-424f-932e-efbd23f7d885)
+![image](https://github.com/simoon06/BankerAvoidance/assets/139492391/bcd393dc-8607-42aa-8455-4e9b3b7744d7)
+
